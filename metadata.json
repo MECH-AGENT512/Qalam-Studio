@@ -1,6 +1,0 @@
-{
-  "name": "Qalam Studio",
-  "description": "Offline-first mobile lecture recorder with automated AI notes, illustrated PDF assignment solver, quizzes, live research digest, and 12 professional AI tools.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
